@@ -1,0 +1,153 @@
+*{
+	margin: 0;
+	padding: 0;
+	
+}
+
+body{
+
+background-color: lightslategray;
+
+
+}
+
+.c1{
+
+	font-size: 100%;
+	font-style: italic;
+	
+	height: 150px;
+	max-width: 1000px;
+	margin: 15px auto;
+	background-color: lightcyan;
+	padding: 20px;
+	
+}
+.image{
+	
+	height: 150px;
+	width: 140px;
+	border: 3px solid slategray ;
+	border-radius: 50%;
+	float: left;
+}
+
+.head-link
+{
+	padding: 20px;	
+	color: rgb(7, 6, 6);
+	float: right;
+}
+.head-link a{
+	font-style: normal;
+	font-weight: bold;
+	color: turquoise;
+	font-size: 100%;
+	font-weight: bold;
+}
+hr
+{
+	border: solid black 5px;
+	width: 100%;
+	margin: 15px auto;
+	margin-bottom: none;
+	border-bottom: none;
+	
+}
+.div-clear
+{
+	clear: both;
+}
+.head-link a:hover{
+	
+	color: tomato;
+}
+
+.Bio
+{
+	float: left;
+	
+	padding: 20px;
+	font-family: 'Dancing Script', cursive;
+	
+}
+h1,h2,h3{
+
+	font-size: 200%;
+	
+}
+
+
+
+
+.info
+{
+
+}
+
+#sec1
+{
+	
+	max-width: 1000px;
+	font-size: 100%;
+	font-style: italic;
+	
+}
+
+.lhs
+{
+	width: 30%;
+	float: left;
+}
+.lhs h3{
+
+	font-family: 'Dancing Script', cursive;
+	font-size: 180%;
+
+}
+
+.rhs
+{
+	width: 70%;
+	float: left;
+
+}
+
+.common-hr{
+	
+	width: 100%;
+	border:solid whitesmoke 2px;
+	border-bottom: none;
+	margin: 20 auto;
+}
+
+.mc{
+	
+}
+
+
+
+.edu1{
+float: left;
+width:50%;
+}
+
+.edu2
+{
+float: right;
+width: 50%;
+}
+
+.f1
+{
+	background-color: burlywood;
+
+	text-align: center;
+	padding: 10px;
+}
+
+.f1 a{
+	color: red;
+	text-align: center;
+	margin: 20px;
+}
